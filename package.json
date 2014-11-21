@@ -19,7 +19,8 @@
     "hubot-shipit": "^0.1.1",
     "hubot-slack": "^2.2.0",
     "hubot-youtube": "^0.1.2",
-    "hubot-codinglove": "0.1.2"
+    "hubot-codinglove": "0.1.2",
+    "hubot-plusplus: 2.1.6"
   },
   "engines": {
     "node": "0.10.x"
